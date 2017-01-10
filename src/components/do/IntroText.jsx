@@ -20,6 +20,12 @@ export default function() {
 	            <a href="https://github.com/mrjones91" title="My Github Code Repository">
 	              <img width="45" src="http://res.cloudinary.com/dijital-technologies/image/upload/v1483792877/icons/GitHub.png"/>
 	            </a>
+	             <a href="https://www.linkedin.com/in/djones20" title="My LinkedIn Profile">
+	              <img width="45" src="http://res.cloudinary.com/dijital-technologies/image/upload/v1484034316/icons/linkedin.png"/>
+	            </a>
+	             <a href="https://drive.google.com/open?id=0BxPT7-_cmlmXbjAxMWFfMEVDX1E" title="My Resume">
+	              <img width="45" src="http://res.cloudinary.com/dijital-technologies/image/upload/v1484034300/icons/resume.png"/>
+	            </a>
 			</p>
 		</div>
 		)

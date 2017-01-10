@@ -32,7 +32,7 @@ export default class Header extends Component {
 
 		return (
 			<div>
-				<AppBar title={<a href="/#do"> <img src='/logo.png' style={ styles.iconStyle } /> </a>} 
+				<AppBar title={<a href="/#do"> <img src='http://res.cloudinary.com/dijital-technologies/image/upload/v1453853654/dij/favicon.png' style={ styles.iconStyle } role="presentation" /> </a>} 
 						style={ styles.barStyle } 
 						iconElementRight={<HeaderMenu size={this.state.width} />} > 
 					<div style={ styles.contentStyle }>

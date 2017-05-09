@@ -2,7 +2,7 @@
   "name": "dijio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://www.dij.io/",
+  "homepage": "http://www.dij.io",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.8.1"
@@ -16,7 +16,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "npm run build&&gh-pages -d build",
+    "move": "cp CNAME build/CNAME",
+    "correct1": "sed -ie 's/noscript><link href=\"/noscript><link href=\"./g' index.html",
+    "correct2": "sed -ie 's/javascript\" src=\"/javascript\" src=\"./g' index.html",
+    "dsurge": "react-scripts build&&cp CNAME build/CNAME&&sed -ie 's/noscript><link href=\"/noscript><link href=\"./g' build/index.html&&sed -ie 's/ src=\"/ src=\"./g' build/index.html&&surge -p build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }

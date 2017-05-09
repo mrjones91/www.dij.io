@@ -14,6 +14,14 @@ let headerLinks = [
 			name: 'Learn to Code'
 		}, 
 		{
+			href: 'https://dijitech.store',
+			name: 'Buy Some Tech'
+		},
+		{
+			href: 'http://peacecube.store',
+			name: 'Find Peace'
+		},  
+		{
 			href: 'mailto:daniel@dij.io',
 			name: 'Email Me'
 		}

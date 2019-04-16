@@ -46,11 +46,7 @@ export default class DoContainer extends Component{
 				}
 
 				</GridList>
-				<div style={styles.tile}>
-					<a href="https://www.dijitalacademy.org" title="Learn to Code with dijital Academy">
-		             <img width="100" src="http://res.cloudinary.com/dijital-technologies/image/upload/v1453853654/dij/logo.png" role="presentation"/>
-		            </a>
-	            </div>
+				
 			</div>
 			)
 	}

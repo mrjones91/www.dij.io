@@ -10,17 +10,21 @@ export default function() {
 	return (
 		<div>
 			<p>
+				Daniel I. Jones (DJ) <br/>
 				I provide:<br/>
 				<a href="https://www.dijitalacademy.org" target="_blank">Coding</a> Workshops
 				<br/>
 				Online <a href="https://www.dijitalacademy.org/treehouse" target="_blank" title="Learn to Code Online with TeamTreehouse"> Courses</a>
 				<br/>
-				& <a href="https://dijitech.store">Electonics</a>
+				Musical Performances
+				<br/>
+				Strength Training
+
 				<br/><br/>
-				I am:<br/>
-				Food Lover 🍱; <br/> Getting Stronger 💪🏾; <br/> Musical Pro 🎷; <br/>
+				I am a:<br/>
+				Thought Thinker 🤔; <br/>Food Lover 🍱; <br/> Weight Lifter 💪🏾; <br/> Sax Player 🎷; <br/>
 				<br/><br/>
-				Daniel I. Jones (DJ)
+				
 			</p>
 			<p> Journey with me:    
 				<a href="https://twitter.com/dij_plz" title="Follow Me on Twitter">

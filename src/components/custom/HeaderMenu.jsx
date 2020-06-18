@@ -9,21 +9,25 @@ import FlatButton from 'material-ui/FlatButton';
 
 
 let headerLinks = [
+		// {
+		// 	href: '',
+		// 	name: ''
+		// },
 		{
-			href: 'https://www.dijitalacademy.org',
-			name: 'Learn to Code'
-		}, 
+			href: 'http://kingstrengthgym.com',
+			name: 'Get Strong'
+		},
 		{
 			href: 'mailto:music@dij.io',
 			name: 'Hire a Saxophonist'
 		},
 		{
-			href: 'mailto:liftBig@dij.io',
-			name: 'Get Stronger'
-		},
+			href: 'mailto:code@dij.io',
+			name: 'Learn to Code'
+		}, 
 		{
 			href: 'mailto:daniel@dij.io',
-			name: 'Email Me'
+			name: "Let's Build Something"
 		}
 	];
 

@@ -7,11 +7,11 @@ import IntroText from './IntroText.jsx';
 
 const styles = {
 	div: {
-		height: '85vh',
-		marginTop: '100px'
+		height: '75vh',
+		marginTop: '64px'
 	},
 	list: {
-		width: '80%',
+		width: '100%',
 		margin: 'auto'
 	},
 	tile: {

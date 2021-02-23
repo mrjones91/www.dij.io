@@ -9,21 +9,22 @@ const styles = {
 export default function() {
 	return (
 		<div>
+			<br/><br/>
 			<p>
 				Daniel I. Jones (DJ) <br/>
 				I provide:<br/>
-				<a href="https://www.dijitalacademy.org" target="_blank">Coding</a> Workshops
+				<a href="https://gum.co/poCju" target="_blank">Coding</a> Lessons
 				<br/>
-				Online <a href="https://www.dijitalacademy.org/treehouse" target="_blank" title="Learn to Code Online with TeamTreehouse"> Courses</a>
+				Online <a href="http://treehouse.7eer.net/c/241472/228915/3944?u=https%3A%2F%2Fteamtreehouse.com%2Ftechdegree" target="_blank" title="Learn to Code Online with TeamTreehouse"> Courses</a>
 				<br/>
-				Musical Performances
+				<a href="https://www.gigsalad.com/saxophone_jones_whiteville" target="_blank">Musical</a> Services
 				<br/>
-				Strength Training
+				Strength <a href="http://kingstrengthgym.com" target="_blank">Training</a>
 
 				<br/><br/>
 				I am a:<br/>
 				Thought Thinker 🤔; <br/>Food Lover 🍱; <br/> Weight Lifter 💪🏾; <br/> Sax Player 🎷; <br/>
-				<br/><br/>
+				<br/>
 				
 			</p>
 			<p> Journey with me:    

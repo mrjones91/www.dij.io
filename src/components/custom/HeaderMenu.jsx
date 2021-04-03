@@ -18,15 +18,15 @@ let headerLinks = [
 			name: 'Get Strong'
 		},
 		{
-			href: 'https://www.oxbtc.com/account/register?code=OX79R2CQE',
-			name: 'Earn Some Crypto'
+			href: 'https://docs.google.com/document/d/1ghr-5tZccbFrP3-p9FOHsX75phcyEYsXMJCdarTpigY/edit?usp=sharing',
+			name: 'Learn About Crypto'
 		}, 
 		{
 			href: 'mailto:music@dij.io',
 			name: 'Book a Saxophonist'
 		},
 		{
-			href: 'mailto:code@dij.io',
+			href: 'https://gumroad.com/l/dijcode',
 			name: 'Learn to Code'
 		}, 
 		{

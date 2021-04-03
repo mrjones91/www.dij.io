@@ -13,13 +13,12 @@ export default function() {
 			<p>
 				Daniel I. Jones (DJ) <br/>
 				I provide:<br/>
-				<a href="https://gum.co/poCju" target="_blank">Coding</a> Lessons
+				🏋🏾‍♂️ Personal <a href="http://kingstrengthgym.com" target="_blank">Training</a>
 				<br/>
-				Online <a href="http://treehouse.7eer.net/c/241472/228915/3944?u=https%3A%2F%2Fteamtreehouse.com%2Ftechdegree" target="_blank" title="Learn to Code Online with TeamTreehouse"> Courses</a>
+				<a href="https://www.gigsalad.com/saxophone_jones_whiteville" target="_blank">Musical</a> Performances 🎷
 				<br/>
-				<a href="https://www.gigsalad.com/saxophone_jones_whiteville" target="_blank">Musical</a> Services
-				<br/>
-				Strength <a href="http://kingstrengthgym.com" target="_blank">Training</a>
+				🖥️ <a href="https://gum.co/poCju" target="_blank">Coding</a> Lessons
+				
 
 				<br/><br/>
 				I am a:<br/>
